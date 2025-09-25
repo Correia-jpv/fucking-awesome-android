@@ -194,6 +194,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
 #### Animations
+- [SmoothMotion](https://github.com/abdullahalhakimi/SmoothMotion) -  Kotlin library for simplifying animations and transitions in Jetpack Compose.
 - [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
 - [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
